@@ -5,7 +5,7 @@ Przedstawione są dwie kluczowe funkcjonalności (przedstawione jako bounded con
 - przelewy - zawiera encje: nadawcy, odbiorcy oraz zlecenia przelewu, które jest korzeniem agregatu. Dodatkowo obiekty wartości: kwota oraz podstawowe dane klienta. 
 
 ## Model
-![ddd.svg](Java/spring-thymeleaf-crud-example/ddd.svg)
+![ddd.svg](ddd.svg)
 
 ## Założenia
 | Konto      |                        |
